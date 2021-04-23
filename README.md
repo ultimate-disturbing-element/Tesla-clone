@@ -1,2 +1,3 @@
 # Teslaclone
  
+![Screenshot](Screenshot.png)
